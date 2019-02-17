@@ -6,6 +6,8 @@ public class Subtr {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is example");
+		System.out.println("This is example1");
+
 
 	}
 
