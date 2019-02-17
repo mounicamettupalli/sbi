@@ -7,6 +7,10 @@ public class Subtr {
 
 		
 		System.out.println("This is example");
+		
+	System.out.println("HII");
+	
+		
 		System.out.println("This is example1");
 
 	}
